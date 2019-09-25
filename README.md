@@ -16,7 +16,7 @@ cucumber-html-reporter has been used for generating html reports from the output
   - Maven
   - Cucumber
 * Ensure that Chrome is installed and the chromedriver that matches the Chrome version in your $PATH is downloaded and available in lib/drivers (The solution has been developed on a 32-bit Windows system, download the corresponding chromedriver version for your system)
-* Ensure that Firefox is installed and geckodriver is downloaded and available in lib/drivers ((The solution has been developed on a 32-bit Windows system, download the corresponding geckodriver version for your system))
+* Ensure that Firefox is installed and geckodriver is downloaded and available in lib/drivers (The solution has been developed on a 32-bit Windows system, download the corresponding geckodriver version for your system))
 * Install Node.js (for cucumber-html-reporter)
 
 ## **Setup**
